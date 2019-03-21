@@ -1,0 +1,21 @@
+/* Add here all your CSS customizations */
+
+.detail-video-cont{
+  height:500px;
+}
+
+.index-video-cont{
+  height:350px;
+}
+
+@media (max-height: 740px) {
+
+  .detail-video-cont{
+    height: 200px;
+  }
+
+  .index-video-cont{
+    height: 200px;
+  }
+
+}
